@@ -11,8 +11,8 @@
 	<groupId>com.tikit.example</groupId>
 	<artifactId>client</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>customer-client-c</name>
-	<description>Customer client contract</description>
+	<name>customer-client</name>
+	<description>Customer client contract and wire mock</description>
 	<properties>
 		<java.version>1.8</java.version>
 		<spring-cloud.version>2020.0.4</spring-cloud.version>
