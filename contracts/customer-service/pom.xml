@@ -145,7 +145,7 @@
                 <version>3.0.4</version>
                 <extensions>true</extensions>
                 <configuration>
-                   <baseClassForTests>CustomerServiceBaseTest</baseClassForTests>
+                   <baseClassForTests>com.tikit.example.service.customer.controller.CustomerServiceBaseTest</baseClassForTests>
                 </configuration>
             </plugin>
         </plugins>
